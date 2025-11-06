@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Brady aka Bkeefe901
 
 
-🔭 I’m currently working on a garden tracker app (CapstoneFE and CapstoneBE)
+💻 I’m currently working on a garden tracker app (CapstoneFE and CapstoneBE)
 [GardenTracker](https://gardentracker.onrender.com/)
 <!--
 **Bkeefe901/Bkeefe901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
