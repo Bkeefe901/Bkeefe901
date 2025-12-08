@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Brady aka Bkeefe901
 
 
-💻 I’m currently working on my peronal webpage/portfolio (PersonalWebsite)
+💻 I’m currently working on my peronal webpage/portfolio:
 [PersonalWebsite](https://bradykeefe.netlify.app)
 <!--
 **Bkeefe901/Bkeefe901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
