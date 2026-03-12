@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Brady aka Bkeefe901
 
 
-💻 I’m currently working on my peronal webpage/portfolio:
-[PersonalWebsite](https://bradykeefe.netlify.app)
+💻 I’m currently working on a sale tracker for wine reps:
+[Sale Tracker](https://winesales.netlify.app/)
 <!--
 **Bkeefe901/Bkeefe901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
